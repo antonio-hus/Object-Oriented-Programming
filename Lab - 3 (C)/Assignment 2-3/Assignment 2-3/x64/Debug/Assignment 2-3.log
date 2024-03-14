@@ -1,0 +1,5 @@
+﻿  Tests.c
+C:\Users\anton\OneDrive\Documents\GitHub\Object-Oriented-Programming\Lab - 3 (C)\Assignment 2-3\Assignment 2-3\Tests.c(27,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\anton\OneDrive\Documents\GitHub\Object-Oriented-Programming\Lab - 3 (C)\Assignment 2-3\Assignment 2-3\Tests.c(48,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\anton\OneDrive\Documents\GitHub\Object-Oriented-Programming\Lab - 3 (C)\Assignment 2-3\Assignment 2-3\Tests.c(71,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Assignment 2-3.vcxproj -> C:\Users\anton\OneDrive\Documents\GitHub\Object-Oriented-Programming\Lab - 3 (C)\Assignment 2-3\x64\Debug\Assignment 2-3.exe
