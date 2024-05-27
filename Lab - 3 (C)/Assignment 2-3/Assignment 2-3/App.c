@@ -62,7 +62,7 @@ int main()
 
     // MEMORY FREES BELOW
     da_destroy(countryRepository.countries);
-    da_destroy_history(history);
+        da_destroy_history(history);
 
     // MEMORY LEAK TESTS BELOW
     _CrtSetDbgFlag(_CRTDBG_ALLOC_MEM_DF | _CRTDBG_LEAK_CHECK_DF);

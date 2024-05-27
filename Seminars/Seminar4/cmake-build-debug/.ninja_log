@@ -1,0 +1,14 @@
+# ninja log v5
+1550	1709	7357327163859400	Seminar4.exe	9f88e253e2269770
+2	128	7357328329858956	build.ninja	24a718299a2acfef
+14	848	7357327012565256	CMakeFiles/Seminar4.dir/RepositoryExceptions.cpp.obj	cea441dc63b5344e
+6	1136	7357327015458967	CMakeFiles/Seminar4.dir/FilePlaylist.cpp.obj	f7dcb47b692f31dc
+0	1210	7357327016180300	CMakeFiles/Seminar4.dir/PlayList.cpp.obj	27e4c8565175d9e3
+20	1292	7357327016877948	CMakeFiles/Seminar4.dir/Utils.cpp.obj	7c6f3d599906dad3
+22	1405	7357327018142539	CMakeFiles/Seminar4.dir/UI.cpp.obj	ead37f8519353bbf
+24	1298	7357327016949300	CMakeFiles/Seminar4.dir/SongValidator.cpp.obj	3dbf63f32ce9aad0
+17	1452	7357327018615120	CMakeFiles/Seminar4.dir/Repository.cpp.obj	3eb572d80cc4878a
+9	1483	7357327018935126	CMakeFiles/Seminar4.dir/Service.cpp.obj	96849c872defe896
+2	3325	7357327037340699	CMakeFiles/Seminar4.dir/CSVPlaylist.cpp.obj	cb0af4deff6e599c
+11	3406	7357327038180739	CMakeFiles/Seminar4.dir/Song.cpp.obj	f898d79c6ccd5078
+5	1550	7357327162311557	CMakeFiles/Seminar4.dir/main.cpp.obj	92581b430f566348
